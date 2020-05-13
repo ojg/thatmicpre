@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name thatmicpre)(type Legacy)(uri ${KIPRJMOD}/thatmicpre.lib)(options "")(descr ""))
+  (lib (name thatmicpre-rescue)(type Legacy)(uri ${KIPRJMOD}/thatmicpre-rescue.lib)(options "")(descr ""))
+)

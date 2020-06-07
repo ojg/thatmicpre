@@ -6,3 +6,12 @@ The background for this project was that I needed a simple but good microphone p
 The design is based on the excellent THAT1510 preamp IC. I have followed all THAT's datasheets and app-notes to implement a best-practice design. It is also compatible with SSM2019 or INA217.
 
 A goal was to use simple parts that I and other DIYers already have in our parts drawer. So there are no additional IC's or voltage regulators for example, it just uses simple transistors, capacitors and zener diodes for supply filtering and regulation.
+
+<object data="https://github.com/ojg/thatmicpre/blob/master/plots/thatmicpre_schematic.pdf
+" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/ojg/thatmicpre/blob/master/plots/thatmicpre_schematic.pdf
+">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/ojg/thatmicpre/blob/master/plots/thatmicpre_schematic.pdf
+f">Download PDF</a>.</p>
+    </embed>
+</object>

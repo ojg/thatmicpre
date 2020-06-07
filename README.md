@@ -7,4 +7,5 @@ The design is based on the excellent THAT1510 preamp IC. I have followed all THA
 
 A goal was to use simple parts that I and other DIYers already have in our parts drawer. So there are no additional IC's or voltage regulators for example, it just uses simple transistors, capacitors and zener diodes for supply filtering and regulation.
 
-<embed src="https://github.com/ojg/thatmicpre/blob/master/plots/thatmicpre_schematic.pdf" width="700" height="500" type="application/pdf">
+### Schematic
+[Link to most recent schematic as pdf](../blob/master/plots/thatmicpre_schematic.pdf)

@@ -12,4 +12,8 @@ A goal was to use simple parts that I and other DIYers already have in our parts
 ![alt text](https://github.com/ojg/thatmicpre/blob/master/plots/thatmicpre_schematic.png "Schematic")
 
 ### PCB
+3D PCB render (v1.1)
 ![alt text](https://github.com/ojg/thatmicpre/blob/master/plots/thatmicpre_3dview.png "PCB 3D view")
+
+Photo of completed prototype (v1.0)
+![alt text](https://github.com/ojg/thatmicpre/blob/master/docs/thatmicpre_pcb_v1.0.JPG "PCB photo")

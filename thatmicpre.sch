@@ -1714,4 +1714,6 @@ F 3 "~" H 8600 1500 50  0001 C CNN
 	1    8600 1500
 	-1   0    0    1   
 $EndComp
+Text Notes 8100 4200 0    50   ~ 0
+To calculate gain values, use micpre_gain2res.m with Octave.\nExample used here:\n[R_real, G_real, err] = micpre_gain2res([0 10 15:5:60], 'that1510', 'e12');
 $EndSCHEMATC

@@ -29,7 +29,6 @@ Specifications
 
 Schematic
 -----
-[Link to most recent schematic as pdf](../blob/master/plots/thatmicpre_schematic.pdf)
 ![alt text](https://github.com/ojg/thatmicpre/blob/master/plots/thatmicpre_schematic.png "Schematic")
 
 PCB

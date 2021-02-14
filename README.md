@@ -42,7 +42,8 @@ Photo of completed prototype (v1.0)
 Measurements
 -----
 ### Output noise vs gain
-20-22kHz BW un-wtd, 150ohm source impedance
+20-22kHz BW un-wtd, 150ohm source impedance.
+Note: Theoretical minimum EIN with 150ohm source impedance is -130.4dBu.
 | Gain(dB) | Output Noise (dBu) | EIN (dBu) |
 | --- | --- | --- |
 | 0 | -98.5 | -98.5 |

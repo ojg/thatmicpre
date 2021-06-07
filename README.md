@@ -10,6 +10,8 @@ A goal was to use simple through-hole parts that I and other DIYers usually have
 
 This is an open-source project released under CC-BY-SA-4.0 license. It basically means you can use it as you want as long as you share modifications under the same license, and attribute back to this project. See [LICENSE.txt](../blob/master/LICENSE.txt) for details.
 
+See discussion of this project in this [DIYAudio thread.](https://www.diyaudio.com/forums/equipment-and-tools/356317-thatmicpre-source-mic-preamp.html) If you decide to build this pre-amplifier, please post results of your build there.
+
 Specifications
 -----
 * Microphone preamplifier with switched gain and 48V phantom power.

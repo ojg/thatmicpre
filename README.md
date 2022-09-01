@@ -39,7 +39,7 @@ PCB
 ![3D PCB render ](https://github.com/ojg/thatmicpre/blob/master/plots/thatmicpre_3dview.png "PCB 3D view")
 
 Photo of completed prototype (v1.1, credit jsenderatx on diyaudio)
-![Photo of completed prototype ](https://github.com/ojg/thatmicpre/blob/master/docs/thatmicpre_pcb_v1.1.png "PCB photo")
+![Photo of completed prototype ](https://github.com/ojg/thatmicpre/blob/master/docs/thatmicpre_pcb_v1_1.png "PCB photo")
 
 Measurements
 -----

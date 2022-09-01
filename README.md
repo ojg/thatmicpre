@@ -31,15 +31,15 @@ Specifications
 
 Schematic
 -----
-![alt text](https://github.com/ojg/thatmicpre/blob/master/plots/thatmicpre_schematic.png "Schematic")
+![Schematic](https://github.com/ojg/thatmicpre/blob/master/plots/thatmicpre_schematic.png "Schematic")
 
 PCB
 -----
 3D PCB render (v1.1)
-![alt text](https://github.com/ojg/thatmicpre/blob/master/plots/thatmicpre_3dview.png "PCB 3D view")
+![3D PCB render ](https://github.com/ojg/thatmicpre/blob/master/plots/thatmicpre_3dview.png "PCB 3D view")
 
-Photo of completed prototype (v1.0)
-![alt text](https://github.com/ojg/thatmicpre/blob/master/docs/thatmicpre_pcb_v1.0.JPG "PCB photo")
+Photo of completed prototype (v1.1, credit jsenderatx on diyaudio)
+![Photo of completed prototype ](https://github.com/ojg/thatmicpre/blob/master/docs/thatmicpre_pcb_v1.1.png "PCB photo")
 
 Measurements
 -----

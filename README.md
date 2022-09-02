@@ -31,18 +31,18 @@ Specifications
 
 Schematic
 -----
-![Schematic](plots/thatmicpre_schematic.png "Schematic")
+![Schematic](v1/plots/thatmicpre_schematic.png "Schematic")
 
 PCB
 -----
 3D PCB render (v1.1)
-![3D PCB render ](plots/thatmicpre_3dview.png "PCB 3D view")
+![3D PCB render ](v1/plots/thatmicpre_3dview.png "PCB 3D view")
 
 Photo of completed prototype (v1.1, credit jsenderatx on diyaudio)
-![Photo of completed prototype ](docs/thatmicpre_pcb_v1_1.png "PCB photo")
+![Photo of completed prototype ](v1/plots/thatmicpre_pcb_v1_1.png "PCB photo")
 
 ## Panels
-![alt text](docs/thatmicpre_v10_frontback_small.jpg "Panels")
+![alt text](v1/plots/thatmicpre_v10_frontback_small.jpg "Panels")
 There is a separate PCB project in the panels folder that contains PCB layout for front and back panels that fits the 1455K120x case. Since it is copper-clad on the inside, it makes for a nice shielded box.
 
 ## Bill of Materials

@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 3.0988,
-          "width": 3.0988
+          "drill": 1.2,
+          "height": 2.9,
+          "width": 2.9
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -349,7 +349,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "thatmicpre.kicad_pro",
+    "filename": "thatmicpre_v2.kicad_pro",
     "version": 1
   },
   "net_settings": {

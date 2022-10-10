@@ -31,15 +31,22 @@ Specifications
 
 Schematic
 -----
-![Schematic](https://github.com/ojg/thatmicpre/blob/master/plots/thatmicpre_schematic.png "Schematic")
+![Schematic](plots/thatmicpre_schematic.png "Schematic")
 
 PCB
 -----
 3D PCB render (v1.1)
-![3D PCB render ](https://github.com/ojg/thatmicpre/blob/master/plots/thatmicpre_3dview.png "PCB 3D view")
+![3D PCB render ](plots/thatmicpre_3dview.png "PCB 3D view")
 
 Photo of completed prototype (v1.1, credit jsenderatx on diyaudio)
-![Photo of completed prototype ](https://github.com/ojg/thatmicpre/blob/master/docs/thatmicpre_pcb_v1_1.png "PCB photo")
+![Photo of completed prototype ](docs/thatmicpre_pcb_v1_1.png "PCB photo")
+
+## Panels
+![alt text](docs/thatmicpre_v10_frontback_small.jpg "Panels")
+There is a separate PCB project in the panels folder that contains PCB layout for front and back panels that fits the 1455K120x case. Since it is copper-clad on the inside, it makes for a nice shielded box.
+
+## Bill of Materials
+Nicely formatted BOM is in the plots folder [here](plots/thatmicpre_bom.html). Thanks to the [InteractiveHtmlBom project](https://github.com/openscopeproject/InteractiveHtmlBom).
 
 Measurements
 -----
@@ -62,21 +69,23 @@ Note: Theoretical minimum EIN with 150ohm source impedance is -130.4dBu.
 | 60 | -68.3 | -128.3 |
 
 ### Frequency Response
-![alt text](https://github.com/ojg/thatmicpre/blob/master/docs/freqresp_vs_gain.png "Frequency response")
+![alt text](docs/freqresp_vs_gain.png "Frequency response")
 
 ### THD+N vs Frequency
-![alt text](https://github.com/ojg/thatmicpre/blob/master/docs/thdvsfreq_vs_gain.png "THDN vs frequency")
+![alt text](docs/thdvsfreq_vs_gain.png "THDN vs frequency")
 
 ### THD+N vs Amplitude
-![alt text](https://github.com/ojg/thatmicpre/blob/master/docs/thdvsamp_vs_gain.png "THDN vs amplitude")
+![alt text](docs/thdvsamp_vs_gain.png "THDN vs amplitude")
 
 ### Common Mode Rejection Ratio
-![alt text](https://github.com/ojg/thatmicpre/blob/master/docs/cmrr_vs_gain.png "CMRR")
+![alt text](docs/cmrr_vs_gain.png "CMRR")
 
 ### Bandpass Noise Level
 Note no measureable hum.
 
-![alt text](https://github.com/ojg/thatmicpre/blob/master/docs/bandpassnoise_vs_freq_vs_gain.png "Bandpass")
+![alt text](docs/bandpassnoise_vs_freq_vs_gain.png "Bandpass")
+
+
 
 ---
-OJG 2020
+OJG 2022

@@ -46,7 +46,7 @@ Photo of completed prototype (v1.1, credit jsenderatx on diyaudio)
 There is a separate PCB project in the panels folder that contains PCB layout for front and back panels that fits the 1455K120x case. Since it is copper-clad on the inside, it makes for a nice shielded box.
 
 ## Bill of Materials
-Nicely formatted BOM is in the plots folder [here](plots/thatmicpre_bom.html). Thanks to the [InteractiveHtmlBom project](https://github.com/openscopeproject/InteractiveHtmlBom).
+Nicely formatted BOM is in the plots folder [here](https://htmlpreview.github.io?https://github.com/ojg/thatmicpre/plots/thatmicpre_bom.html). Thanks to the [InteractiveHtmlBom project](https://github.com/openscopeproject/InteractiveHtmlBom).
 
 Measurements
 -----

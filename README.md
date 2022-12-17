@@ -4,7 +4,7 @@ A simple, high-quality DIY microphone pre-amplifier with switched gain.
 
 The background for this project was that I needed a simple but good microphone preamp for doing acoustic measurements. I needed a switched gain to be able to reproduce the gain setting in a more predictable way than what is possible with a potmeter. I could not find any existing DIY designs, so I decided to make one.
 
-The design is based on the excellent [THAT1510](http://www.thatcorp.com/1510-1512_Audio_Preamplifier_ICs.shtml) preamp IC. It is also compatible with THAT1512, [SSM2019](https://www.analog.com/en/products/ssm2019.html) or [INA217](https://www.ti.com/product/INA217). I have followed all THAT's datasheets and app-notes to implement a robust, best-practice design.
+The design is based on the excellent [THAT1510](https://thatcorp.com/that-1510-1512-low-noise-high-performance-audio-preamplifiers/) preamp IC. It is also compatible with THAT1512, [SSM2019](https://www.analog.com/en/products/ssm2019.html) or [INA217](https://www.ti.com/product/INA217). I have followed all THAT's datasheets and app-notes to implement a robust, best-practice design.
 
 A goal was to use simple through-hole parts that I and other DIYers usually have in our parts drawer. So there are no additional IC's or voltage regulators for example, it just uses simple transistors, capacitors and zener diodes for supply filtering and regulation. I selected affordable switches and connectors to keep cost down. Many parts can be substituted without sacrificing performance.
 

@@ -53,7 +53,7 @@ It mounts at a right angle to the main PCB with two angled female headers undern
 
 ## Bill of Materials
 Nicely formatted BOM is in the plots folder for [desktop version](https://htmlpreview.github.io/?https://github.com/ojg/thatmicpre/blob/master/desktop/plots/thatmicpre_bom.html)
-and [rack version](https://htmlpreview.github.io/?https://github.com/ojg/thatmicpre/blob/master/rack/plots/thatmicpre_bom.html).
+and [rack version](https://htmlpreview.github.io/?https://github.com/ojg/thatmicpre/blob/master/rack/plots/thatmicpre_v2_bom.html).
 
 Thanks to the [InteractiveHtmlBom project](https://github.com/openscopeproject/InteractiveHtmlBom).
 
